@@ -27,5 +27,6 @@
     "terminal.ansiYellow": "#FDED02"
     },
     "python.formatting.provider": "black",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
 }
