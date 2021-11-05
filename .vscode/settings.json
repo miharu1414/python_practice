@@ -29,4 +29,5 @@
     "python.formatting.provider": "black",
     "git.ignoreLimitWarning": true,
     "terminal.integrated.defaultProfile.windows": "Command Prompt"
+
 }
