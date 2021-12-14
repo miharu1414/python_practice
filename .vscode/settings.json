@@ -28,6 +28,8 @@
     },
     "python.formatting.provider": "black",
     "git.ignoreLimitWarning": true,
-    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "notebook.output.textLineLimit": 50,
+    "jupyter.jupyterServerType": "local"
 
 }
